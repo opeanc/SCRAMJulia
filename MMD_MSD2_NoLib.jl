@@ -427,13 +427,7 @@ function main()
     end
     fine = now()
     println("Finito in ", fine-inizio)
-    #Avg. time in: Ryzen 7 3700U @ 2.3 GHz (10 ripetizioni)
-    # N = 10 -> 358 millisecondi
-    # N = 100 -> 1888 millisecondi
-    # N = 300 -> 
-    # N = 500 -> 
-    # N = 1000 -> 
-    # N = 10000 -> 
+    
 end
 
 main()
